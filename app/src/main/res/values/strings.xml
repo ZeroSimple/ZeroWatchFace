@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Zero Watch Face</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">Zero WatchFace</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
